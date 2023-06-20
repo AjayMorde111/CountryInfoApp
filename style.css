@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: black;
+    color: white;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
+  #country-info {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background-color:black;
+    color: white;
+  }
+  
+  #country-info h2 {
+    margin-top: 0;
+  }
+  
+  #country-info p {
+    margin: 5px 0;
+  }
+  
